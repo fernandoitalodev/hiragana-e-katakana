@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  ul,
+  ol {
+    list-style: revert;
+  }
+}
+
+@layer components {
+  .btn-blue {
+    @apply m-4 border rounded-lg py-2 px-4 font-semibold text-xl bg-blue-400 text-white shadow shadow-white dark:text-slate-900 dark:border-none dark:shadow-none;
+  }
+  .syllable-option {
+    @apply text-center border py-2 rounded-lg shadow-sm border-slate-500 capitalize;
+  }
+}

@@ -1,0 +1,450 @@
+{
+  "hiragana": [
+    {
+      "word": ["ね", "こ"],
+      "portuguese": ["gato"],
+      "romanized": ["ne", "ko"],
+      "category": "animals"
+    },
+    {
+      "word": ["い", "ぬ"],
+      "portuguese": ["cachorro"],
+      "romanized": ["i", "nu"],
+      "category": "animals"
+    },
+    {
+      "word": ["と", "り"],
+      "portuguese": ["pássaro"],
+      "romanized": ["to", "ri"],
+      "category": "animals"
+    },
+    {
+      "word": ["さ", "か", "な"],
+      "portuguese": ["peixe"],
+      "romanized": ["sa", "ka", "na"],
+      "category": "animals"
+    },
+    {
+      "word": ["く", "ま"],
+      "portuguese": ["urso"],
+      "romanized": ["ku", "ma"],
+      "category": "animals"
+    },
+    {
+      "word": ["ね", "ず", "み"],
+      "portuguese": ["rato"],
+      "romanized": ["ne", "zu", "mi"],
+      "category": "animals"
+    },
+    {
+      "word": ["う", "し"],
+      "portuguese": ["boi"],
+      "romanized": ["u", "shi"],
+      "category": "animals"
+    },
+
+    {
+      "word": ["は", "な"],
+      "portuguese": ["flor"],
+      "romanized": ["ha", "na"],
+      "category": "animals"
+    },
+
+    {
+      "word": ["き", "ん", "ぎょ"],
+      "portuguese": ["peixe dourado"],
+      "romanized": ["ki", "n", "gyo"],
+      "category": "animals"
+    },
+    {
+      "word": ["り", "ん", "ご"],
+      "portuguese": ["maçã"],
+      "romanized": ["ri", "n", "go"],
+      "category": "animals"
+    },
+    {
+      "word": ["は", "し"],
+      "portuguese": ["hashi"],
+      "romanized": ["ha", "shi"],
+      "category": "animals"
+    },
+    {
+      "word": ["く", "る", "ま"],
+      "portuguese": ["carro"],
+      "romanized": ["ku", "ru", "ma"],
+      "category": "animals"
+    },
+    {
+      "word": ["う", "み"],
+      "portuguese": ["oceano"],
+      "romanized": ["u", "mi"],
+      "category": "animals"
+    },
+    {
+      "word": ["に", "ん", "じゃ"],
+      "portuguese": ["ninja"],
+      "romanized": ["nin", "ja"],
+      "category": "animals"
+    },
+    {
+      "word": ["ぞ", "う"],
+      "portuguese": ["elefante"],
+      "romanized": ["zo", "u"],
+      "category": "animals"
+    },
+    {
+      "word": ["あ", "さ"],
+      "portuguese": ["manhã"],
+      "romanized": ["a", "sa"],
+      "category": "animals"
+    },
+    {
+      "word": ["よ", "る"],
+      "portuguese": ["noite"],
+      "romanized": ["yo", "ru"],
+      "category": "animals"
+    },
+    {
+      "word": ["て", "ん", "き"],
+      "portuguese": ["clima"],
+      "romanized": ["te", "n", "ki"],
+      "category": "animals"
+    }, {
+      "word": ["れ","も","ん"],
+      "portuguese": ["limão"],
+      "romanized": ["re","mo","n"],
+      "category": "fruits"
+    },
+    {
+      "word": ["み","か","ん"],
+      "portuguese": ["tangerina"],
+      "romanized": ["mi","ka","n"],
+      "category": "fruits"
+    },{
+      "word": ["ぶ","どう"],
+      "portuguese": ["uva"],
+      "romanized": ["bu","dō"],
+      "category": "fruits"
+    }, {
+      "word": ["す","い","か"],
+      "portuguese": ["melancia"],
+      "romanized": ["su","i","ka"],
+      "category": "fruits"
+    }
+  ],
+
+  "katakana": [
+    {
+      "word": ["ネ", "コ"],
+      "portuguese": ["gato"],
+      "romanized": ["ne", "ko"],
+      "category": "animals"
+    },{
+      "word": ["ウ", "マ"],
+      "portuguese": ["cavalo"],
+      "romanized": ["u", "ma"],
+      "category": "animals"
+    },
+    {
+      "word": ["イ", "ヌ"],
+      "portuguese": ["cachorro"],
+      "romanized": ["i", "nu"],
+      "category": "animals"
+    },
+    {
+      "word": ["ト", "リ"],
+      "portuguese": ["pássaro"],
+      "romanized": ["to", "ri"],
+      "category": "animals"
+    },
+    {
+      "word": ["サ", "カ", "ナ"],
+      "portuguese": ["peixe"],
+      "romanized": ["sa", "ka", "na"],
+      "category": "animals"
+    },
+    {
+      "word": ["ク", "マ"],
+      "portuguese": ["urso"],
+      "romanized": ["ku", "ma"],
+      "category": "animals"
+    },
+    {
+      "word": ["ネ", "ズ", "ミ"],
+      "portuguese": ["rato"],
+      "romanized": ["ne", "zu", "mi"],
+      "category": "animals"
+    },
+    {
+      "word": ["ウ", "シ"],
+      "portuguese": ["boi"],
+      "romanized": ["u", "shi"],
+      "category": "animals"
+    },
+    {
+      "word": ["ハ", "ナ"],
+      "portuguese": ["flor"],
+      "romanized": ["ha", "na"],
+      "category": "animals"
+    },
+
+    {
+      "word": ["リ", "ン", "ゴ"],
+      "portuguese": ["maçã"],
+      "romanized": ["ri", "n", "go"],
+      "category": "fruits"
+    },
+    {
+      "word": ["ハ", "シ"],
+      "portuguese": ["hashi"],
+      "romanized": ["ha", "shi"],
+      "category": "object"
+    },
+    {
+      "word": ["ク", "ル", "マ"],
+      "portuguese": ["carro"],
+      "romanized": ["ku", "ru", "ma"],
+      "category": "object"
+    },
+    {
+      "word": ["ウ", "ミ"],
+      "portuguese": ["oceano"],
+      "romanized": ["u", "mi"],
+      "category": "aleatory"
+    },
+    {
+      "word": ["ニ", "ン", "ジャ"],
+      "portuguese": ["ninja"],
+      "romanized": ["ni", "n", "ja"],
+      "category": "aleatory"
+    },
+    {
+      "word": ["ゾ", "ウ"],
+      "portuguese": ["elefante"],
+      "romanized": ["zo", "u"],
+      "category": "animals"
+    },
+    {
+      "word": ["ア", "サ"],
+      "portuguese": ["manhã"],
+      "romanized": ["a", "sa"],
+      "category": "aleatory"
+    },
+    {
+      "word": ["ヨ", "ル"],
+      "portuguese": ["noite"],
+      "romanized": ["yo", "ru"],
+      "category": "aleatory"
+    },
+    {
+      "word": ["テ", "ン", "キ"],
+      "portuguese": ["clima"],
+      "romanized": ["te", "n", "ki"],
+      "category": "aleatory"
+    }, {
+      "word": ["カ", "メ"],
+      "portuguese": ["tartaruga"],
+      "romanized": ["ka", "me"],
+      "category": "animals"
+    },
+    {
+      "word": ["ウ", "サ", "ギ"],
+      "portuguese": ["coelho"],
+      "romanized": ["u", "sa", "gi"],
+      "category": "animals"
+    },
+    {
+      "word": ["ヤ", "ギ"],
+      "portuguese": ["bode"],
+      "romanized": ["ya", "gi"],
+      "category": "animals"
+    }
+  ],
+  "characters": {
+    "hiragana": [
+      "あ",
+      "い",
+      "う",
+      "え",
+      "お",
+      "か",
+      "き",
+      "く",
+      "け",
+      "こ",
+      "さ",
+      "し",
+      "す",
+      "せ",
+      "そ",
+      "た",
+      "ち",
+      "つ",
+      "て",
+      "と",
+      "な",
+      "に",
+      "ぬ",
+      "ね",
+      "の",
+      "は",
+      "ひ",
+      "ふ",
+      "へ",
+      "ほ",
+      "ま",
+      "み",
+      "む",
+      "め",
+      "も",
+      "や",
+      "ゆ",
+      "よ",
+      "ら",
+      "り",
+      "る",
+      "れ",
+      "ろ",
+      "わ",
+      "を",
+      "ん",
+      "ざ",
+      "じ",
+      "ず",
+      "ぜ",
+      "ぞ",
+      "だ",
+      "ぢ",
+      "づ",
+      "で",
+      "ど",
+      "ば",
+      "び",
+      "ぶ",
+      "べ",
+      "ぼ",
+      "ぱ",
+      "ぴ",
+      "ぷ",
+      "ぺ",
+      "ぽ",
+      "て",
+      "で",
+      "つ",
+      "づ",
+      "が",
+      "ぎ",
+      "ぐ",
+      "げ",
+      "ご",
+      "ぱ",
+      "ぴ",
+      "ぷ",
+      "ぺ",
+      "ぽ"
+    ],
+    "katakana": [
+      "ア",
+      "イ",
+      "ウ",
+      "エ",
+      "オ",
+      "カ",
+      "キ",
+      "ク",
+      "ケ",
+      "コ",
+      "サ",
+      "シ",
+      "ス",
+      "セ",
+      "ソ",
+      "タ",
+      "チ",
+      "ツ",
+      "テ",
+      "ト",
+      "ナ",
+      "ニ",
+      "ヌ",
+      "ネ",
+      "ノ",
+      "ハ",
+      "ヒ",
+      "フ",
+      "ヘ",
+      "ホ",
+      "マ",
+      "ミ",
+      "ム",
+      "メ",
+      "モ",
+      "ヤ",
+      "ユ",
+      "ヨ",
+      "ラ",
+      "リ",
+      "ル",
+      "レ",
+      "ロ",
+      "ワ",
+      "ヲ",
+      "ン",
+      "ザ",
+      "ジ",
+      "ズ",
+      "ゼ",
+      "ゾ",
+      "ダ",
+      "ヂ",
+      "ヅ",
+      "デ",
+      "ド",
+      "バ",
+      "ビ",
+      "ブ",
+      "ベ",
+      "ボ",
+      "パ",
+      "ピ",
+      "プ",
+      "ペ",
+      "ポ",
+      "テ",
+      "デ",
+      "ツ",
+      "ヅ",
+      "ガ",
+      "ギ",
+      "グ",
+      "ゲ",
+      "ゴ",
+      "パ",
+      "ピ",
+      "プ",
+      "ペ",
+      "ポ"
+    ]
+    
+,"romanization" :[
+    "a", "i", "u", "e", "o",
+    "ka", "ki", "ku", "ke", "ko",
+    "sa", "shi", "su", "se", "so",
+    "ta", "chi", "tsu", "te", "to",
+    "na", "ni", "nu", "ne", "no",
+    "ha", "hi", "fu", "he", "ho",
+    "ma", "mi", "mu", "me", "mo",
+    "ya", "yu", "yo",
+    "ra", "ri", "ru", "re", "ro",
+    "wa", "wo",
+    "n",
+    "za", "ji", "zu", "ze", "zo",
+    "da", "ji", "zu", "de", "do",
+    "ba", "bi", "bu", "be", "bo",
+    "pa", "pi", "pu", "pe", "po",
+    "te", "de", "tsu", "zu",
+    "ga", "gi", "gu", "ge", "go",
+    "pa", "pi", "pu", "pe", "po"
+  ]
+  }
+}
